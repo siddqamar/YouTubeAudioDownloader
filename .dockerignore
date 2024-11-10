@@ -1,0 +1,12 @@
+venv/
+.gradio/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git/
+.gitignore
+*.log
+.DS_Store
+Thumbs.db
+vercel.json
